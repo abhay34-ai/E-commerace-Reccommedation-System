@@ -36,21 +36,10 @@ The system can be integrated into any e-commerce platform to enhance the user ex
 
 ---
 
-## 📂 Project Structure
 
-```
-E-Commerce-Recommendation-System/
-│
-├── templates/             # HTML templates
-├── aseet/                # images
-├── data/                  # Dataset files
-├── app.py                 # Main Flask app
-├── recommendation.py      # ML recommendation logic
-├── requirements.txt       # Dependencies
-└── README.md              # Documentation
-```
 
----
+
+
 
 ## 📥 Installation
 
