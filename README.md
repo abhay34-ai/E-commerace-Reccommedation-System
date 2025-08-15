@@ -109,7 +109,7 @@ The app will be available at: **[http://127.0.0.1:5000/](http://127.0.0.1:5000/)
 
 ## 👨‍💻 Author
 **Abhay Thakre**  
-📧 your-email@example.com  
+📧 thakreabhay450@gmail.com  
 🌐 [Portfolio](https://abhay-portfolio-34.vercel.app)  
 💼 [LinkedIn](https://www.linkedin.com/in/abhay-thakre-a402b1370/)
 
