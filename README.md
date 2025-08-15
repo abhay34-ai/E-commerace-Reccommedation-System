@@ -41,9 +41,8 @@ The system can be integrated into any e-commerce platform to enhance the user ex
 ```
 E-Commerce-Recommendation-System/
 │
-├── static/                # CSS, JS, and images
 ├── templates/             # HTML templates
-├── models/                # Saved ML models
+├── aseet/                # images
 ├── data/                  # Dataset files
 ├── app.py                 # Main Flask app
 ├── recommendation.py      # ML recommendation logic
@@ -58,8 +57,8 @@ E-Commerce-Recommendation-System/
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/your-username/E-Commerce-Recommendation-System.git
-cd E-Commerce-Recommendation-System
+git https://github.com/abhay34-ai/Ecommerace-Recommendation
+cd Ecommerace-Recommendation
 ```
 
 2. **Create a virtual environment**
@@ -108,9 +107,9 @@ The app will be available at: **[http://127.0.0.1:5000/](http://127.0.0.1:5000/)
 
 ---
 
-## 🤝 Contributing
-
-Pull requests are welcome! For major changes, open an issue first to discuss the changes you want to make.
-
----
+## 👨‍💻 Author
+**Abhay Thakre**  
+📧 your-email@example.com  
+🌐 [Portfolio](https://abhay-portfolio-34.vercel.app)  
+💼 [LinkedIn](https://www.linkedin.com/in/abhay-thakre-a402b1370/)
 
